@@ -3,4 +3,4 @@ Weather App Using JavaScript for practice
 
 **Check here:**
 <br>
-7afde.github.io/Weather-App/
+https://7afde.github.io/Weather-App/
